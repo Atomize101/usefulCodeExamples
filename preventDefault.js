@@ -1,5 +1,5 @@
 // This is a very common practice of stopping a form from being submitted 
-// when the user hits the enter key
+// when the user hits the enter key.
 
 
  onFormSubmit(event) {
